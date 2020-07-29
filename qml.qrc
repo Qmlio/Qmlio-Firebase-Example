@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>AuthPage.qml</file>
+        <file>RealTimeDatabase.qml</file>
+        <file>StoragePage.qml</file>
+        <file>MessagingPage.qml</file>
+        <file>DatabaseSection.qml</file>
+        <file>LogSection.qml</file>
+        <file>StorageSection.qml</file>
+    </qresource>
+</RCC>
